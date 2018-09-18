@@ -17,7 +17,7 @@ ChuYuxuan said:
 > hello world.
 
 first header | second header
-----------------------------
+-------------|--------------
 col 1 | col 2
 col 1 | col 2
 col 1 | col 2
