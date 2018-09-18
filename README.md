@@ -16,6 +16,8 @@ hello world
 ChuYuxuan said:
 > hello world.
 
-#1
-github-flavored-markdown#1
-defunkt/github-flavored-markdown#1
+first header | second header
+----------------------------
+col 1 | col 2
+col 1 | col 2
+col 1 | col 2
