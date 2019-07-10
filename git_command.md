@@ -1,0 +1,11 @@
+# git command
+- git clone
+- git commit -m 
+- git status
+- git push
+- git add
+- git pull
+- git branch
+- git branch \<newbranch\>
+- git checkout
+- git merge
